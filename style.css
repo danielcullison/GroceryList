@@ -3,20 +3,20 @@ h2 {
     font-size: 30px;  
 }
 
-.DryGoods {
+#DryGoods {
     position: relative; left: 300px; bottom: 130px;
     background-color: antiquewhite; width: 175px;
 }
 
-.CannedGoods {
+#CannedGoods {
     background-color: antiquewhite; width: 175px;
 }
 
-.Veggies {
+#Veggies {
     background-color: antiquewhite; width: 175px;
 }
 
-.Snacks {
+#Snacks {
     position: relative; left: 300px; bottom: 130px;
     background-color: antiquewhite; width: 175px;
 }
